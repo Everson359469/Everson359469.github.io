@@ -1,1 +1,15 @@
-# Everson359469.github.io
+ <!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Everson Smith</title>
+
+    </head>
+    <body>
+            <h1>Everson Smith</h1>
+            <a href = "reseme.html">Reseme</a>
+            <a href = "programs.html">Programs</a>
+            <a href = "hobbies.html">Hobbies</a>
+    </body>
+
+</html>
